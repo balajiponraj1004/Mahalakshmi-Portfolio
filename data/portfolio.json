@@ -1,0 +1,61 @@
+
+{
+  "designerName": "Alex Sterling",
+  "role": "Senior Graphic Designer",
+  "experience": "8+ Years of Design Excellence",
+  "summary": "Translating complex visions into high-fidelity visual systems. Specializing in brand identity, layout architecture, and precision-driven print design for global brands and boutique agencies.",
+  "categories": [
+    {
+      "id": "logo-design",
+      "title": "Logo Design",
+      "shortDescription": "Minimalist and scalable brand identities.",
+      "longDescription": "A collection of curated visual marks designed for longevity, scalability, and impact across all mediums.",
+      "items": [
+        { "id": "l1", "title": "Nexus Financial", "description": "A modern geometric mark representing stability.", "imageUrl": "https://picsum.photos/seed/l1/800/800", "date": "2024", "client": "Nexus Group", "tags": ["Fintech", "Minimalist"] },
+        { "id": "l2", "title": "Aura Cosmetics", "description": "Fluid organic lines for a premium wellness brand.", "imageUrl": "https://picsum.photos/seed/l2/800/1000", "date": "2023", "client": "Aura", "tags": ["Beauty", "Luxury"] },
+        { "id": "l3", "title": "Vertex Tech", "description": "Isometric monogram for a cloud computing firm.", "imageUrl": "https://picsum.photos/seed/l3/800/800", "date": "2024", "client": "Vertex", "tags": ["Tech", "SaaS"] },
+        { "id": "l4", "title": "Evergreen Estate", "description": "Classic serif typography integrated with nature.", "imageUrl": "https://picsum.photos/seed/l4/800/600", "date": "2023", "client": "Evergreen", "tags": ["Real Estate"] },
+        { "id": "l5", "title": "Orbit Logistics", "description": "Motion-driven mark for a global courier service.", "imageUrl": "https://picsum.photos/seed/l5/800/900", "date": "2024", "client": "Orbit", "tags": ["Logistics", "Symbol"] }
+      ]
+    },
+    {
+      "id": "flyers",
+      "title": "Flyers & Posters",
+      "shortDescription": "Event-driven and impactful large format designs.",
+      "longDescription": "High-impact layouts designed to capture attention and communicate key information through superior typographic hierarchy.",
+      "items": [
+        { "id": "f1", "title": "Berlin Jazz Night", "description": "Brutalist typographic poster for a music festival.", "imageUrl": "https://picsum.photos/seed/f1/1000/1400", "date": "2023", "tags": ["Culture", "Print"] },
+        { "id": "f2", "title": "Future Summit 2025", "description": "Gradient-heavy event flyer for tech conference.", "imageUrl": "https://picsum.photos/seed/f2/1000/1500", "date": "2024", "tags": ["Tech", "Digital"] },
+        { "id": "f3", "title": "Art Gallery Opening", "description": "Minimalist aesthetic for high-end gallery exhibit.", "imageUrl": "https://picsum.photos/seed/f3/1000/1300", "date": "2023", "tags": ["Art", "Exhibition"] },
+        { "id": "f4", "title": "Organic Harvest", "description": "Texture-rich flyer for sustainable farming event.", "imageUrl": "https://picsum.photos/seed/f4/1000/1600", "date": "2024", "tags": ["Sustainability"] },
+        { "id": "f5", "title": "Velocity Racing", "description": "Dynamic layout for a professional car racing event.", "imageUrl": "https://picsum.photos/seed/f5/1000/1400", "date": "2023", "tags": ["Sports", "Action"] }
+      ]
+    },
+    {
+      "id": "isometric",
+      "title": "Isometric Design",
+      "shortDescription": "Precision technical 3D illustrations.",
+      "longDescription": "Complex technical visualizations and architectural isometric compositions created with mathematical precision.",
+      "items": [
+        { "id": "i1", "title": "Smart City Grid", "description": "Infrastructure visualization for municipal planning.", "imageUrl": "https://picsum.photos/seed/i1/1200/800", "date": "2024", "tags": ["Tech", "Visualization"] },
+        { "id": "i2", "title": "Crypto Ecosystem", "description": "Conceptual 3D map of decentralized finance.", "imageUrl": "https://picsum.photos/seed/i2/1200/900", "date": "2024", "tags": ["Blockchain", "Fintech"] },
+        { "id": "i3", "title": "Internal Engine", "description": "Technical cut-away of a mechanical assembly.", "imageUrl": "https://picsum.photos/seed/i3/1200/1000", "date": "2023", "tags": ["Engineering"] },
+        { "id": "i4", "title": "Data Center Flow", "description": "Architectural isometric of server rack layouts.", "imageUrl": "https://picsum.photos/seed/i4/1200/700", "date": "2024", "tags": ["IT Infrastructure"] },
+        { "id": "i5", "title": "Future Campus", "description": "Isometric overview of a modern university.", "imageUrl": "https://picsum.photos/seed/i5/1200/850", "date": "2023", "tags": ["Architecture"] }
+      ]
+    },
+    {
+      "id": "layout",
+      "title": "Layout Design",
+      "shortDescription": "Magazine and publication spreads.",
+      "longDescription": "Thoughtful editorial design focused on readability, rhythm, and sophisticated white space management.",
+      "items": [
+        { "id": "ly1", "title": "Vogue Concept", "description": "Clean editorial spread for a fashion feature.", "imageUrl": "https://picsum.photos/seed/ly1/1400/1000", "date": "2024", "tags": ["Editorial", "Fashion"] },
+        { "id": "ly2", "title": "Architecture Monthly", "description": "Structural layout for industrial design profiles.", "imageUrl": "https://picsum.photos/seed/ly2/1400/1100", "date": "2023", "tags": ["Design", "Print"] },
+        { "id": "ly3", "title": "Culinary Journey", "description": "Vibrant cookbook spread with custom grid.", "imageUrl": "https://picsum.photos/seed/ly3/1400/900", "date": "2024", "tags": ["Food", "Layout"] },
+        { "id": "ly4", "title": "Financial Report", "description": "Data-heavy annual report with clear hierarchy.", "imageUrl": "https://picsum.photos/seed/ly4/1400/1200", "date": "2023", "tags": ["Corporate", "Report"] },
+        { "id": "ly5", "title": "Traveler Z", "description": "Experimental grid for a modern travel zine.", "imageUrl": "https://picsum.photos/seed/ly5/1400/1050", "date": "2024", "tags": ["Travel", "Zine"] }
+      ]
+    }
+  ]
+}
