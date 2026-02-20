@@ -57,5 +57,18 @@
         { "id": "ly5", "title": "Traveler Z", "description": "Experimental grid for a modern travel zine.", "imageUrl": "https://picsum.photos/seed/ly5/1400/1050", "date": "2024", "tags": ["Travel", "Zine"] }
       ]
     }
+        {
+      "id": "social-media",
+      "title": "Social Media",
+      "shortDescription": "Magazine and publication spreads.",
+      "longDescription": "Thoughtful editorial design focused on readability, rhythm, and sophisticated white space management.",
+      "items": [
+        { "id": "ly1", "title": "Vogue Concept", "description": "Clean editorial spread for a fashion feature.", "imageUrl": "https://picsum.photos/seed/ly1/1400/1000", "date": "2024", "tags": ["Editorial", "Fashion"] },
+        { "id": "ly2", "title": "Architecture Monthly", "description": "Structural layout for industrial design profiles.", "imageUrl": "https://picsum.photos/seed/ly2/1400/1100", "date": "2023", "tags": ["Design", "Print"] },
+        { "id": "ly3", "title": "Culinary Journey", "description": "Vibrant cookbook spread with custom grid.", "imageUrl": "https://picsum.photos/seed/ly3/1400/900", "date": "2024", "tags": ["Food", "Layout"] },
+        { "id": "ly4", "title": "Financial Report", "description": "Data-heavy annual report with clear hierarchy.", "imageUrl": "https://picsum.photos/seed/ly4/1400/1200", "date": "2023", "tags": ["Corporate", "Report"] },
+        { "id": "ly5", "title": "Traveler Z", "description": "Experimental grid for a modern travel zine.", "imageUrl": "https://picsum.photos/seed/ly5/1400/1050", "date": "2024", "tags": ["Travel", "Zine"] }
+      ]
+    }
   ]
 }
