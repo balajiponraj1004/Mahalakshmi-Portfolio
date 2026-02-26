@@ -35,8 +35,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ item, onClose }) => 
         </button>
 
         <div className="w-full md:w-2/3 bg-gray-100 p-4 md:p-12 flex items-center justify-center">
-          <img 
-            src={item.imageUrl} 
+          <img             loading="lazy"            src={item.imageUrl} 
             alt={item.title}
             className="w-full h-auto max-h-[70vh] object-contain shadow-2xl"
           />

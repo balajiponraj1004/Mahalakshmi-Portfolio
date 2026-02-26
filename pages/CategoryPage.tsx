@@ -136,6 +136,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({ data }) => {
                     >
                       <div className="relative overflow-hidden bg-gray-100">
                         <img 
+                          loading="lazy"
                           src={item.imageUrl} 
                           alt={item.title} 
                           className="w-full h-auto transform group-hover:scale-105 transition-transform duration-700"
@@ -166,9 +167,10 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({ data }) => {
                     >
                       <div className="aspect-square relative overflow-hidden bg-gray-100">
                         <img 
+                          loading="lazy"
                           src={item.imageUrl} 
                           alt={item.title} 
-                          className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
+                          className="w/full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
                         />
                       </div>
                       <div className="mt-6">
@@ -194,6 +196,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({ data }) => {
                     >
                       <div className="w-full max-w-5xl aspect-video overflow-hidden bg-gray-100 shadow-xl">
                         <img 
+                          loading="lazy"
                           src={item.imageUrl} 
                           alt={item.title} 
                           className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-1000"

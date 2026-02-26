@@ -39,7 +39,7 @@ export const portfolioData: PortfolioData = {
           }
         },
         { "id": "l1", "title": "Cake Dudes", "description": "Whimsical brand identity for a quirky bakery collective.", "imageUrl": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800", "date": "2024", "client": "Cake Dudes", "tags": ["Bakery", "Logo"] },
-        { "id": "spice-box", "title": "Spice Box", "description": "Seasonal takeaway packaging system inspired by the spice trade.", "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=1200", "date": "2024", "client": "Manam Hospitality", "tags": ["Packaging", "Brand", "Hospitality"] }
+
       ]
     },
     {
