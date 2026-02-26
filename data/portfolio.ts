@@ -31,16 +31,7 @@ export const portfolioData: PortfolioData = {
             "outcome": "The final brand identity successfully positioned Manam Canteen as a leader in the premium South Indian dining space. The system provides the client with a scalable toolkit that maintains consistency across print, digital, and physical touchpoints, reinforcing a sense of established legacy and culinary expertise."
           }
         },
-        { "id": "l1", "title": "Internal Summit '24", "description": "Complete identity system for FullContact's flagship global internal event.", "imageUrl": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800", "date": "2024", "client": "FullContact", "tags": ["Event Identity", "Logo"] },
-        { "id": "l2", "title": "Eco-Line Branding", "description": "Visual identity system for sustainable product innovation within the enterprise.", "imageUrl": "https://images.unsplash.com/photo-1541462608141-ad601970221c?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["Sustainability", "Brand"] },
-        { "id": "l3", "title": "Swift Logistics", "description": "Minimalist mark for delivery startup.", "imageUrl": "https://images.unsplash.com/photo-1599305090598-fe179d501227?auto=format&fit=crop&q=80&w=800", "date": "2022", "tags": ["Logo", "Minimal"] },
-        { "id": "l4", "title": "Apex Fitness", "description": "Dynamic branding for boutique gym chain.", "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["Fitness", "Brand"] },
-        { "id": "l5", "title": "Luna Coffee", "description": "Artisanal logo design for local roastery.", "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["F&B", "Craft"] },
-        { "id": "l6", "title": "Velvet Hotel", "description": "Luxury identity for boutique hospitality group.", "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800", "date": "2024", "tags": ["Luxury", "Hospitality"] },
-        { "id": "l7", "title": "Horizon Ventures", "description": "Corporate logo for venture capital firm.", "imageUrl": "https://images.unsplash.com/photo-1554774853-aae0a22c8aa4?auto=format&fit=crop&q=80&w=800", "date": "2022", "tags": ["Corporate", "Finance"] },
-        { "id": "l8", "title": "Glow Skincare", "description": "Organic visual identity for beauty products.", "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["Beauty", "Retail"] },
-        { "id": "l9", "title": "Tech Pulse", "description": "Tech conference branding and identity.", "imageUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&q=80&w=800", "date": "2024", "tags": ["Event", "Tech"] },
-        { "id": "l10", "title": "Urban Roots", "description": "Logo for community gardening initiative.", "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["Community", "Identity"] }
+        { "id": "l1", "title": "Cake Dudes", "description": "Whimsical brand identity for a quirky bakery collective.", "imageUrl": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800", "date": "2024", "client": "Cake Dudes", "tags": ["Bakery", "Logo"] }
       ]
     },
     {
