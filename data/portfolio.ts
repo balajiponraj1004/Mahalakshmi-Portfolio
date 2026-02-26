@@ -31,10 +31,10 @@ export const portfolioData: PortfolioData = {
             "outcome": "Result: a scalable brand system that positions Manam Canteen as modern, trustworthy, and premium—while still feeling culturally grounded. The toolkit supports future growth (new menu lines, seasonal campaigns, and additional locations) without redesigning the brand each time.",
             "location": "Manam Canteen, 3415 Dixie Rd Unit 3B, Mississauga, ON L4Y 2B1",
             "images": [
-              "https://images.unsplash.com/photo-1589308078053-0bfa7b1f6539?auto=format&fit=crop&q=80&w=1200",
-              "https://images.unsplash.com/photo-1562967916-eb82221dfb45?auto=format&fit=crop&q=80&w=1200",
-              "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&q=80&w=1200",
-              "https://images.unsplash.com/photo-1498579809087-ef1e558fd1d7?auto=format&fit=crop&q=80&w=1200"
+              "https://ibb.co/5gzNtC5M",
+              "https://ibb.co/399TLLQT",
+              "https://ibb.co/W4wjBjKf",
+              "https://ibb.co/LdWFPMqL" 
             ]
           }
         },
