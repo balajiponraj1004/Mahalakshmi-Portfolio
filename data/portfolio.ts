@@ -38,7 +38,32 @@ export const portfolioData: PortfolioData = {
             ]
           }
         },
-        { "id": "l1", "title": "Cake Dudes", "description": "Whimsical brand identity for a quirky bakery collective.", "imageUrl": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800", "date": "2024", "client": "Cake Dudes", "tags": ["Bakery", "Logo"] },
+        { 
+          "id": "l1", 
+          "title": "Cake Dudes", 
+          "client": "Cake Dudes - Thanjavur",
+          "description": "Complete brand identity system for a modern premium bakery specializing in celebration cakes and café offerings.", 
+          "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200", 
+          "date": "2024", 
+          "tags": ["Bakery", "Branding", "Menu Design"],
+          "caseStudy": {
+            "overview": "The Cake Dudes is a modern bakery brand based in Thanjavur, Tamil Nadu, specializing in fresh cream cakes, premium celebration cakes, desserts, beverages, and café-style food items. The objective was to create a strong, memorable brand identity and structured visual system that positions the bakery as modern, celebration-focused, and premium yet affordable.",
+            "background": "The local bakery market in Tier-2 cities typically lacks consistent branding, structured menu layouts, clear product hierarchy, and premium visual positioning. Instagram-ready brand communication was also absent. The challenge was to build a strong brand personality, improve perceived value, create a clean readable menu system, organize product pricing strategically, and establish visual consistency across all platforms.",
+            "challenge": "Establish a distinctive brand identity in a competitive local market while managing multiple product categories (cakes, shakes, mocktails, pizza, desserts, burgers, ice creams). The system had to support clear pricing hierarchy (½ kg and 1 kg structures), transparent upselling opportunities, and consistent visual communication across physical and digital touchpoints.",
+            "strategy": "Target audience segmentation: birthday and celebration customers, college students, families, and walk-in dessert buyers. Brand personality: youthful, celebration-focused, friendly, modern, and affordable premium. Menu design focused on clarity, structure, and upselling psychology with clear category segmentation and premium product placement hierarchy. Visual system designed for scalability across print, packaging, and social media.",
+            "logoSystem": "The logo system was designed to be bold and typographic, easy to reproduce in print, scalable for packaging and signage, and recognizable on social media. Deliverables included primary logo, secondary logo, social media icon, color palette, typography system, and print-ready artwork. The mark maintains readability at small sizes and strength at large scale.",
+            "visualLanguage": "Typography: confident headings paired with highly readable body type for menus and posters. Color palette: warm, inviting tones that evoke celebration and appetite. Layout style: clean editorial spacing with strategic section dividers for fast menu scanning and improved product discovery. Grid-based structure ensures consistency across all materials.",
+            "applications": "Complete brand system extended to menus, store signage, packaging stickers, contact branding, social media content, and price boards. Menu design organized products into categories with dual pricing format (½ kg and 1 kg), premium placement strategy, and combo options (Cake + Ice Cream variants). Social media branding included themed cake launches, festival promotions, reel content direction, and engagement-driven captions. Print production covered menu cards, store signage, packaging, and offline branding materials.",
+            "outcome": "The Cake Dudes evolved from a standard local bakery into a recognizable celebration-focused brand through strategic visual design and structured layout systems. Results: improved brand recognition in local market, elevated premium cake perception, clearer menu navigation for customers, stronger Instagram brand consistency, and structured product presentation for increased upselling and average order value.",
+            "role": "Brand Identity Designer, Visual System Strategist, Menu Layout Designer, Social Media Visual Consultant, Print Production Supervisor",
+            "images": [
+              "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200",
+              "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200",
+              "https://images.unsplash.com/photo-1563379091339-03b21ab4a104?auto=format&fit=crop&q=80&w=1200",
+              "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200"
+            ]
+          }
+        },
 
       ]
     },
