@@ -17,18 +17,25 @@ export const portfolioData: PortfolioData = {
           "title": "Manam Canteen", 
           "client": "Manam Hospitality",
           "description": "Full brand identity system for a premium South Indian restaurant focusing on scent, heritage, and modern communal dining.", 
-          "imageUrl": "https://images.unsplash.com/photo-1516824467205-afa656d31a79?auto=format&fit=crop&q=80&w=1200", 
+          "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=1200",
           "date": "2024", 
           "tags": ["Branding", "Hospitality", "Identity"],
           "caseStudy": {
-            "overview": "Manam Canteen is a South Indian dining destination that bridges the gap between traditional heritage recipes and modern, sophisticated gastronomy. The project involved the creation of a comprehensive visual identity system including logo design, color theory, typography, and environmental applications.",
-            "background": "The name Manam translates to scent or aroma in Tamil, as well as heart or mind in various South Indian dialects. The brand mission was to evoke nostalgia through the olfactory experience of traditional spices while providing a clean, upscale environment for global urban diners.",
-            "challenge": "The primary challenge was to avoid the visual clichés often associated with South Indian eateries, such as over-saturated yellow palettes and literal depictions of banana leaves. The objective was to synthesize a traditional cultural essence with a minimal, contemporary aesthetic that signals seniority and high-end positioning.",
-            "strategy": "The brand strategy centered on the concept of The Soul of the Spice. We focused on the sensory journey of the diner, translating the warmth and depth of South Indian cuisine into a visual language. The strategy prioritized 'sophisticated authenticity'—ensuring the brand felt deeply rooted in its origin while remaining accessible to an international audience.",
-            "logoSystem": "The primary mark is a refined combination of abstract aroma lines that subtly form a heart shape, referencing the duality of the word Manam. The stroke weights are balanced to ensure legibility across small-scale applications like business cards and large-scale environmental signage. A secondary secondary 'Canteen' wordmark was developed to provide a grounding, utilitarian contrast to the organic primary mark.",
-            "visualLanguage": "The color palette is derived from the spice trade: Deep Terracotta (earth and clay), Turmeric Gold (aroma and vitality), and Charcoal (precision and modern utility). Typography utilizes a high-contrast serif for headings to evoke heritage, paired with a geometric sans-serif for body copy to ensure functional clarity and a modern edge.",
-            "applications": "The identity was extended across a multi-channel ecosystem. Packaging design utilized recycled textures with minimal turmeric-gold foil accents. Social media templates were designed with a strict grid system to maintain visual hierarchy, while large-format posters focused on macro-photography of ingredients paired with the minimalist brand language.",
-            "outcome": "The final brand identity successfully positioned Manam Canteen as a leader in the premium South Indian dining space. The system provides the client with a scalable toolkit that maintains consistency across print, digital, and physical touchpoints, reinforcing a sense of established legacy and culinary expertise."
+            "overview": "Manam Canteen is a modern South Indian restaurant brand built for a multicultural audience in Mississauga. The identity system was designed to feel premium, warm, and contemporary—while staying rooted in Tamil heritage and the sensory experience of South Indian cuisine.",
+            "background": "‘Manam’ connects to the idea of aroma, memory, and heart—perfect for a food brand where smell and nostalgia are part of the experience. The brand needed a visual language that signals trust, cleanliness, and quality, without relying on predictable South-Indian-restaurant clichés.",
+            "challenge": "Create a distinctive identity that feels premium and modern, but still culturally authentic. The system also had to work across many touchpoints—storefront, menu, packaging, social media, and everyday in-store print—while staying consistent and easy for the team to use.",
+            "strategy": "Brand direction: Modern Heritage. We combined a clean layout system (strong grids, spacing, and hierarchy) with cultural cues used subtly (forms inspired by aroma/steam, Tamil letter influence, and spice-inspired tones). The goal was to make the brand instantly recognizable even without food photography.",
+            "logoSystem": "A flexible logo system was designed with a primary wordmark and supporting variations for different use cases (signage, social icons, packaging). The mark is built to stay readable at small sizes and strong at large scale, with consistent spacing rules so it never looks ‘off’ in real-world applications.",
+            "visualLanguage": "Typography: confident headings + highly readable body type for menus and posters. Color palette: spice-inspired warmth balanced with neutrals (so it feels premium, not loud). Layout style: clean editorial spacing with bold section dividers—ideal for menu clarity and brand consistency.",
+            "applications": "The identity extends into menus, posters, social media templates, delivery packaging, stickers, staff items, and in-store print. Templates were built so a non-designer can update daily specials and announcements while maintaining brand quality.",
+            "outcome": "Result: a scalable brand system that positions Manam Canteen as modern, trustworthy, and premium—while still feeling culturally grounded. The toolkit supports future growth (new menu lines, seasonal campaigns, and additional locations) without redesigning the brand each time.",
+            "location": "Manam Canteen, 3415 Dixie Rd Unit 3B, Mississauga, ON L4Y 2B1",
+            "images": [
+              "https://images.unsplash.com/photo-1543352634-5b4b3c0b5b7e?auto=format&fit=crop&q=80&w=1200",
+              "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=1200",
+              "https://images.unsplash.com/photo-1528731708534-816fe59f90a8?auto=format&fit=crop&q=80&w=1200",
+              "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1200"
+            ]
           }
         },
         { "id": "l1", "title": "Cake Dudes", "description": "Whimsical brand identity for a quirky bakery collective.", "imageUrl": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800", "date": "2024", "client": "Cake Dudes", "tags": ["Bakery", "Logo"] }
