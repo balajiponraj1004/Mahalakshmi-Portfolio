@@ -87,6 +87,34 @@ export const portfolioData: PortfolioData = {
         { "id": "ui9", "title": "Music Streaming", "description": "Sleek interface for audio discovery.", "imageUrl": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?auto=format&fit=crop&q=80&w=800", "date": "2022", "tags": ["Music", "App"] },
         { "id": "ui10", "title": "Admin Console", "description": "Enterprise-level backend management UI.", "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800", "date": "2024", "tags": ["Admin", "Enterprise"] }
       ]
+    },
+    {
+      "id": "packaging",
+      "title": "Packaging Design",
+      "shortDescription": "Physical touchpoints that sell on-shelf.",
+      "longDescription": "Crafting structural and graphic packaging systems that reinforce brand narrative and purchase intent.",
+      "items": []
+    },
+    {
+      "id": "digital-campaigns",
+      "title": "Digital Campaigns",
+      "shortDescription": "Multi-channel marketing activations.",
+      "longDescription": "Conceptualizing and designing integrated campaign assets for web, social, and email that drive engagement.",
+      "items": []
+    },
+    {
+      "id": "environmental-graphics",
+      "title": "Environmental Graphics",
+      "shortDescription": "Spatial branding and signage systems.",
+      "longDescription": "Designing wayfinding and experiential graphics for physical spaces to enhance brand immersion.",
+      "items": []
+    },
+    {
+      "id": "typography-systems",
+      "title": "Typography Systems",
+      "shortDescription": "Custom fonts & typographic rules.",
+      "longDescription": "Developing bespoke typefaces and hierarchies to ensure consistent voice across media.",
+      "items": []
     }
   ],
   "resume": {
