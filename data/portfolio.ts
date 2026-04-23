@@ -38,13 +38,49 @@ export const portfolioData: PortfolioData = {
             ]
           }
         },
-        { 
-          "id": "l1", 
-          "title": "Cake Dudes", 
+        {
+          "id": "truthsift",
+          "title": "TruthSift",
+          "client": "TruthSift",
+          "description": "Minimal wordmark identity for a media-intelligence platform — Sherlock Holmes detective silhouette in a circular emblem paired with a bold serif/sans split wordmark and the tagline 'How We Know'.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/truthsift.png",
+          "date": "2023",
+          "tags": ["Logo", "Tech", "Identity"]
+        },
+        {
+          "id": "urjita",
+          "title": "URJITA",
+          "client": "URJITA Energy",
+          "description": "Bold typographic logo for an energy brand — a custom U letterform integrated with a lightning bolt creates a powerful, recognizable mark in high-contrast black and amber.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/urjita.png",
+          "date": "2023",
+          "tags": ["Logo", "Energy", "Wordmark"]
+        },
+        {
+          "id": "sai-advisory",
+          "title": "Sai Advisory Services",
+          "client": "Sai Advisory Services",
+          "description": "Circular emblem identity for a financial advisory firm — monogram SAS with a precision compass/arrow motif on a deep blue gradient, communicating expertise and strategic direction.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/sai-advisory.png",
+          "date": "2022",
+          "tags": ["Logo", "Finance", "Emblem"]
+        },
+        {
+          "id": "just-learn",
+          "title": "JustLearn@CB",
+          "client": "Clearly Blue",
+          "description": "Vibrant, playful logotype for a children's education brand — each letter rendered in a distinct bright colour with a rounded, friendly typeface that communicates fun, creativity, and accessible learning.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/just-learn.png",
+          "date": "2021",
+          "tags": ["Logo", "EdTech", "Playful"]
+        },
+        {
+          "id": "l1",
+          "title": "Cake Dudes",
           "client": "Cake Dudes - Thanjavur",
           "description": "Complete brand identity system for a modern premium bakery specializing in celebration cakes and café offerings.", 
-          "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200", 
-          "date": "2024", 
+          "imageUrl": "/Mahalakshmi-Portfolio/cake-dudes/cover.jpg",
+          "date": "2024",
           "tags": ["Bakery", "Branding", "Menu Design"],
           "caseStudy": {
             "overview": "The Cake Dudes is a modern bakery brand based in Thanjavur, Tamil Nadu, specializing in fresh cream cakes, premium celebration cakes, desserts, beverages, and café-style food items. The objective was to create a strong, memorable brand identity and structured visual system that positions the bakery as modern, celebration-focused, and premium yet affordable.",
@@ -56,10 +92,18 @@ export const portfolioData: PortfolioData = {
             "applications": "Complete brand system extended to menus, store signage, packaging stickers, contact branding, social media content, and price boards. Menu design organized products into categories with dual pricing format (½ kg and 1 kg), premium placement strategy, and combo options (Cake + Ice Cream variants). Social media branding included themed cake launches, festival promotions, reel content direction, and engagement-driven captions. Print production covered menu cards, store signage, packaging, and offline branding materials.",
             "outcome": "The Cake Dudes evolved from a standard local bakery into a recognizable celebration-focused brand through strategic visual design and structured layout systems. Results: improved brand recognition in local market, elevated premium cake perception, clearer menu navigation for customers, stronger Instagram brand consistency, and structured product presentation for increased upselling and average order value.",
             "images": [
-              "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200",
-              "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200",
-              "https://images.unsplash.com/photo-1563379091339-03b21ab4a104?auto=format&fit=crop&q=80&w=1200",
-              "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=1200"
+              "/Mahalakshmi-Portfolio/cake-dudes/cover.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/2.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/3.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/4.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/5.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/6.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/7.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/8.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/9.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/10.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/11.jpg",
+              "/Mahalakshmi-Portfolio/cake-dudes/12.jpg"
             ]
           }
         },
@@ -72,16 +116,24 @@ export const portfolioData: PortfolioData = {
       "shortDescription": "Strategic data visualization for decision makers.",
       "longDescription": "Advanced information design focusing on data hierarchy, clarity, and narrative flow across executive reports and digital platforms.",
       "items": [
-        { "id": "inf1", "title": "Medical App Ecosystem", "client": "IQVIA HCP Space", "description": "Comprehensive statistical breakdown of the number of medical apps in usage across leading global app stores.", "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["Healthcare", "Statistics"] },
-        { "id": "inf2", "title": "Plastic Ban Awareness", "client": "Clearly Blue", "description": "Educational infographic detailing the nationwide ban on single-use plastics and its environmental impact.", "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&q=80&w=800", "date": "2022", "tags": ["CSR", "Awareness"] },
-        { "id": "inf3", "title": "The Power of Podcasts", "client": "Clearly Blue", "description": "Strategic visualization exploring podcast demographics and business benefits for modern brands.", "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&q=80&w=800", "date": "2022", "tags": ["Marketing", "Trends"] },
-        { "id": "inf4", "title": "Epidemiology Analysis", "client": "IQVIA HCP Space", "description": "Data-heavy mapping of sarcoidosis prevalence and incidence rates across global medical databases.", "imageUrl": "https://images.unsplash.com/photo-1504868584819-f8e90526354a?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["Medical", "Data"] },
-        { "id": "inf5", "title": "Autism Participation", "client": "IQVIA", "description": "Information design focusing on assistive technologies and diagnostic accessibility for children on the spectrum.", "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800", "date": "2021", "tags": ["Healthcare", "Social"] },
-        { "id": "inf6", "title": "Accounting Cloud Ecosystem", "client": "QuickBooks", "description": "System architecture visualization showcasing anytime, anywhere access for the QuickBooks Online Accountant platform.", "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800", "date": "2022", "tags": ["FinTech", "Process"] },
-        { "id": "inf7", "title": "Traffic Violation Trends", "client": "Clearly Blue", "description": "Local city-data visualization analyzing Bengaluru's recent traffic offences and penalty structures.", "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&q=80&w=800", "date": "2020", "tags": ["Public Data", "Analytics"] },
-        { "id": "inf8", "title": "Operational Smooth Sailing", "client": "Infosys BPM", "description": "Award-winning workflow visualization demonstrating a 3-stage transformation of business process management.", "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800", "date": "2021", "tags": ["BPM", "Corporate"] },
-        { "id": "inf9", "title": "Aspirant Journey Map", "client": "Wipro", "description": "Process-driven visual guide for the modern candidate experience, from discovery to final acknowledgement.", "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800", "date": "2023", "tags": ["HR Tech", "Process"] },
-        { "id": "inf10", "title": "Sustainability Impact", "client": "Global Enterprise", "description": "Environmental impact data visualization highlighting corporate green initiatives and waste reduction.", "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb773b09?auto=format&fit=crop&q=80&w=800", "date": "2024", "tags": ["Green", "CSR"] }
+        { "id": "inf1", "title": "Medical App Ecosystem", "client": "IQVIA HCP Space", "description": "Comprehensive statistical breakdown of the number of medical apps available for download across leading global app stores including Google Play, Apple, Windows Store, Amazon, and BlackBerry.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/7.png", "date": "2023", "tags": ["Healthcare", "Statistics"] },
+        { "id": "inf2", "title": "Plastic Ban Awareness", "client": "Clearly Blue", "description": "Educational infographic detailing India's nationwide Oct 2 ban on single-use plastics, covering six banned items, penalties, and the environmental impact on marine life and annual consumption.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/8.png", "date": "2022", "tags": ["CSR", "Awareness"] },
+        { "id": "inf3", "title": "The Power of Podcasts", "client": "Clearly Blue", "description": "Strategic visualization exploring why podcasts work for business — covering target audience reach, business benefits, millennial engagement stats, and how to start with a $100 setup.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/9.png", "date": "2022", "tags": ["Marketing", "Trends"] },
+        { "id": "inf4", "title": "Global Epidemiology of Sarcoidosis", "client": "IQVIA HCP Space", "description": "Data-heavy multi-regional mapping of sarcoidosis prevalence and incidence rates across Sweden, USA, Italy, France, Central Latin America, Central Asia, and Africa using standardized clinical databases.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/10.png", "date": "2023", "tags": ["Medical", "Data"] },
+        { "id": "inf5", "title": "Autism: Assistive Technologies", "client": "IQVIA", "description": "Information design on autism spectrum disorder diagnostics — 1 in 59 children diagnosed, IQ and disability distribution data, early intervention benefits, and the critical role of assistive technologies for active participation.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/13.png", "date": "2021", "tags": ["Healthcare", "Social"] },
+        { "id": "inf6", "title": "Accounting Cloud Ecosystem", "client": "QuickBooks", "description": "System architecture visualization showcasing QuickBooks Online Accountant's anytime, anywhere browser-based access — saving accountants up to 30% of their time with real-time cloud collaboration.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/15.png", "date": "2022", "tags": ["FinTech", "Process"] },
+        { "id": "inf7", "title": "Traffic Violation Trends", "client": "Clearly Blue", "description": "City-data visualization analyzing Bengaluru's recent traffic offences — top 5 offences, required documents, penalty structures, and the 5 highest fine amounts.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/16.png", "date": "2020", "tags": ["Public Data", "Analytics"] },
+        { "id": "inf8", "title": "Operational Smooth Sailing", "client": "Infosys BPM", "description": "Award-winning 3-stage workflow visualization for a North American financial services giant — solving 800% volume overdrawn accounts with 135 FTEs, achieving 99.5% process accuracy and 100% SLA adherence.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/17.png", "date": "2021", "tags": ["BPM", "Corporate"] },
+        { "id": "inf9", "title": "Aspirant Journey Map", "client": "Wipro", "description": "Process-driven visual guide for the Wipro candidate experience — covering Discovery, Filter Options, Upload Resume, Interview Call, Acknowledgement, and Appointment/Rejection touchpoints.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/18.png", "date": "2023", "tags": ["HR Tech", "Process"] },
+        { "id": "inf10", "title": "Asthma Awareness", "client": "IQVIA HCP Space", "description": "Public health infographic on asthma — 339M affected, 1000 daily deaths, 3.6% prevalence increase since 2006, with data on disability rankings and high-impact statistics for global awareness campaigns.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/1.png", "date": "2022", "tags": ["Healthcare", "Awareness"] },
+        { "id": "inf11", "title": "Climate Change & Human Health", "client": "IQVIA HCP Space", "description": "Multi-factor visualization linking climate change to human health outcomes — rising temperatures, extreme weather, CO₂ levels, and sea level rise mapped to disease, displacement, and mortality data.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/2.png", "date": "2022", "tags": ["Climate", "Healthcare"] },
+        { "id": "inf12", "title": "What Doctors Want From Pharma", "client": "IQVIA HCP Space", "description": "Survey-based infographic revealing HCP preferences — meeting frequency, rep visit counts, most valued services, patient engagement tools, and the types of information doctors value most from medical reps.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/3.png", "date": "2022", "tags": ["Pharma", "Research"] },
+        { "id": "inf13", "title": "Influenza Disease Burden", "client": "IQVIA HCP Space", "description": "Evidence-based infographic on influenza — 1 billion infected annually, 290,000–650,000 deaths, NCD complication risks (hospitalization 3×, heart attack 5×), and WHO-backed vaccination benefits.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/4.png", "date": "2023", "tags": ["Medical", "Vaccine"] },
+        { "id": "inf14", "title": "Global Burden of Melanoma", "client": "IQVIA HCP Space", "description": "Regional incidence and mortality mapping for melanoma across Australia, North America, Central Europe, Central Latin America, Central Asia, North Africa & Middle East, and Central Africa using 95% CI data.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/5.png", "date": "2023", "tags": ["Oncology", "Data"] },
+        { "id": "inf15", "title": "AI in B2B Marketing", "client": "Clearly Blue", "description": "Mind-map style infographic on AI's role in B2B marketing — predicting customers, improving lead generation, smart decision-making, and 80% of marketers predicting AI will revolutionize marketing.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/6.png", "date": "2021", "tags": ["AI", "Marketing"] },
+        { "id": "inf16", "title": "Thalassaemia Awareness", "client": "IQVIA HCP Space", "description": "Awareness infographic on thalassaemia — 1.7% incidence rate, global prevalence map, symptoms (anaemia, bone deformities, slow growth), and treatment options including blood transfusion and iron chelation.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/11.png", "date": "2021", "tags": ["Healthcare", "Awareness"] },
+        { "id": "inf17", "title": "Women's Eye Health & Safety", "client": "IQVIA HCP Space", "description": "Eye health awareness infographic — 4.4 million Americans visually impaired, 1 in 4 women without an eye exam in 2 years, prevention tips covering UV protection, cosmetics safety, and family history screening.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/12.png", "date": "2022", "tags": ["Healthcare", "Women's Health"] },
+        { "id": "inf18", "title": "Real-Time Document Exchange", "client": "QuickBooks", "description": "Process visualization for QuickBooks Online Accountant's document exchange system — eliminating manual data entry with cloud-based client collaboration that saves 9 hours per client per month.", "imageUrl": "/Mahalakshmi-Portfolio/infographics/14.png", "date": "2022", "tags": ["FinTech", "Cloud"] }
       ]
     },
     {
