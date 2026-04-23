@@ -36,8 +36,13 @@ export const Navbar: React.FC = () => {
     <nav className="fixed top-0 left-0 w-full z-50 bg-white/80 backdrop-blur-md border-b border-gray-100 no-print">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
         <div className="flex justify-between items-center h-20">
-          <Link to="/" className="text-xl font-bold tracking-tighter hover:opacity-70 transition-opacity">
-            MAHA<span className="text-gray-400">LAKSHMI</span>
+          <Link to="/" className="hover:opacity-70 transition-opacity group">
+            <div className="text-xl font-bold tracking-tighter leading-none">
+              MAHA<span className="text-gray-400">LAKSHMI</span>
+            </div>
+            <div className="text-[8px] font-bold uppercase tracking-[0.25em] text-gray-400 mt-0.5">
+              Visual Strategy · Brand Design
+            </div>
           </Link>
 
           {/* Desktop Links */}
