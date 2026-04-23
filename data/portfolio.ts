@@ -31,56 +31,20 @@ export const portfolioData: PortfolioData = {
             "outcome": "A scalable brand system that positions Manam Canteen as modern, trustworthy, and premium while feeling culturally grounded. The Uber Eats menu now features professional photography across all dish categories. The social media presence maintains consistent brand quality across posts, offers, and seasonal campaigns. The system is built to support future growth — new menu lines, additional locations, and catering services — without redesigning the brand.",
             "location": "Manam Canteen, Unit 3B, 3415 Dixie Rd, Mississauga, ON L4Y 4J6",
             "images": [
+              "/Mahalakshmi-Portfolio/manam-canteen/food-hero.jpg",
               "/Mahalakshmi-Portfolio/manam-canteen/moodboard-1.png",
               "/Mahalakshmi-Portfolio/manam-canteen/moodboard-2.png",
               "/Mahalakshmi-Portfolio/manam-canteen/business-card-front.png",
               "/Mahalakshmi-Portfolio/manam-canteen/business-card-back.png",
-              "/Mahalakshmi-Portfolio/manam-canteen/menu-card.jpg",
               "/Mahalakshmi-Portfolio/manam-canteen/signboard.jpg",
-              "/Mahalakshmi-Portfolio/manam-canteen/insta-post.jpg",
-              "/Mahalakshmi-Portfolio/manam-canteen/restaurant-mockup.jpg",
+              "/Mahalakshmi-Portfolio/manam-canteen/menu-card.jpg",
               "/Mahalakshmi-Portfolio/manam-canteen/cup-mockup.jpg",
-              "/Mahalakshmi-Portfolio/manam-canteen/food-hero.jpg",
-              "/Mahalakshmi-Portfolio/manam-canteen/food-idli.jpg",
-              "/Mahalakshmi-Portfolio/manam-canteen/food-biriyani.jpg"
+              "/Mahalakshmi-Portfolio/manam-canteen/restaurant-mockup.jpg",
+              "/Mahalakshmi-Portfolio/manam-canteen/insta-post.jpg",
+              "/Mahalakshmi-Portfolio/manam-canteen/food-biriyani.jpg",
+              "/Mahalakshmi-Portfolio/manam-canteen/food-idli.jpg"
             ]
           }
-        },
-        {
-          "id": "truthsift",
-          "title": "TruthSift",
-          "client": "TruthSift",
-          "description": "Minimal wordmark identity for a media-intelligence platform — Sherlock Holmes detective silhouette in a circular emblem paired with a bold serif/sans split wordmark and the tagline 'How We Know'.",
-          "imageUrl": "/Mahalakshmi-Portfolio/logos/truthsift.png",
-          "date": "2023",
-          "tags": ["Logo", "Tech", "Identity"]
-        },
-        {
-          "id": "urjita",
-          "title": "URJITA",
-          "client": "URJITA Energy",
-          "description": "Bold typographic logo for an energy brand — a custom U letterform integrated with a lightning bolt creates a powerful, recognizable mark in high-contrast black and amber.",
-          "imageUrl": "/Mahalakshmi-Portfolio/logos/urjita.png",
-          "date": "2023",
-          "tags": ["Logo", "Energy", "Wordmark"]
-        },
-        {
-          "id": "sai-advisory",
-          "title": "Sai Advisory Services",
-          "client": "Sai Advisory Services",
-          "description": "Circular emblem identity for a financial advisory firm — monogram SAS with a precision compass/arrow motif on a deep blue gradient, communicating expertise and strategic direction.",
-          "imageUrl": "/Mahalakshmi-Portfolio/logos/sai-advisory.png",
-          "date": "2022",
-          "tags": ["Logo", "Finance", "Emblem"]
-        },
-        {
-          "id": "just-learn",
-          "title": "JustLearn@CB",
-          "client": "Clearly Blue",
-          "description": "Vibrant, playful logotype for a children's education brand — each letter rendered in a distinct bright colour with a rounded, friendly typeface that communicates fun, creativity, and accessible learning.",
-          "imageUrl": "/Mahalakshmi-Portfolio/logos/just-learn.png",
-          "date": "2021",
-          "tags": ["Logo", "EdTech", "Playful"]
         },
         {
           "id": "l1",
@@ -190,9 +154,18 @@ export const portfolioData: PortfolioData = {
     {
       "id": "digital-campaigns",
       "title": "Digital Campaigns",
-      "shortDescription": "Multi-channel marketing activations.",
-      "longDescription": "Conceptualizing and designing integrated campaign assets for web, social, and email that drive engagement.",
-      "items": []
+      "shortDescription": "Multi-channel social media & ad campaigns.",
+      "longDescription": "Conceptualizing and designing integrated campaign assets for Instagram, Google, and food-delivery platforms that drive engagement and conversions.",
+      "items": [
+        { "id": "dc1", "title": "Manam Canteen — Combo Offers", "client": "Manam Canteen", "description": "Weekend combo deal campaign for Manam Canteen featuring Chicken Biriyani + Chicken 65 Fry combos at $20–$25, designed for Instagram and WhatsApp distribution.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/mc-weekly-special.png", "date": "2025", "tags": ["Instagram", "Food & Beverage", "Campaign"] },
+        { "id": "dc2", "title": "Manam Canteen — Parotta with Chettinad", "client": "Manam Canteen", "description": "Product spotlight post for the signature Parotta with Chettinad Chicken dish, optimized for Instagram's 4×5 portrait format.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/mc-parotta-chettinad.jpg", "date": "2025", "tags": ["Instagram", "Food", "Social"] },
+        { "id": "dc3", "title": "Manam Canteen — Mutton Launch", "client": "Manam Canteen", "description": "New product launch post announcing the Mutton Chukka Biriyani addition to the Manam Canteen menu, styled for high engagement on Instagram.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/mc-mutton-launch.png", "date": "2025", "tags": ["Launch", "Instagram", "Food"] },
+        { "id": "dc4", "title": "Manam Canteen — Google Business Cover", "client": "Manam Canteen", "description": "Branded Google Business Profile cover page designed to communicate Manam Canteen's premium South Indian identity at first glance.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/mc-google-business-cover.png", "date": "2025", "tags": ["Google Business", "Branding"] },
+        { "id": "dc5", "title": "Cake Dudes TNJ — Burger Promo", "client": "Cake Dudes Thanjavur", "description": "High-impact social media ad for the signature Hot & Spicy Burger at Cake Dudes Thanjavur, designed with bold food photography and a strong call-to-action.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/cd-burger-promo.png", "date": "2025", "tags": ["Instagram", "Food", "Ad"] },
+        { "id": "dc6", "title": "Cake Dudes TNJ — Pizza + Mojito Combo", "client": "Cake Dudes Thanjavur", "description": "AI-guided summer combo campaign: Buy 1 Pizza Get 1 Mojito Free. Vibrant food styling with offer urgency copy for Instagram and Facebook.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/cd-pizza-mojito-combo.png", "date": "2025", "tags": ["Combo Offer", "Instagram", "AI Guided"] },
+        { "id": "dc7", "title": "Cake Dudes TNJ — Burger Combo Insta", "client": "Cake Dudes Thanjavur", "description": "Burger combo promotion formatted for Instagram feed, featuring product photography with bold pricing and brand identity elements.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/cd-burger-combo-insta.png", "date": "2025", "tags": ["Instagram", "Combo", "Food"] },
+        { "id": "dc8", "title": "Cake Dudes TNJ — Pizza Combo Series", "client": "Cake Dudes Thanjavur", "description": "Multi-variant Instagram post series for the pizza combo offer, designed in multiple sizes for feed, story, and reel cover formats.", "imageUrl": "/Mahalakshmi-Portfolio/digital-campaigns/cd-pizza-combo-insta.png", "date": "2025", "tags": ["Instagram", "Series", "Pizza"] }
+      ]
     },
     {
       "id": "environmental-graphics",
@@ -202,11 +175,48 @@ export const portfolioData: PortfolioData = {
       "items": []
     },
     {
-      "id": "typography-systems",
-      "title": "Typography Systems",
-      "shortDescription": "Custom fonts & typographic rules.",
-      "longDescription": "Developing bespoke typefaces and hierarchies to ensure consistent voice across media.",
-      "items": []
+      "id": "logo-design",
+      "title": "Logo Design",
+      "shortDescription": "Distinctive marks for brands of all sizes.",
+      "longDescription": "Crafting memorable logomarks and wordmarks — from tech platforms to energy brands — that communicate the brand's core identity instantly and scale across all touchpoints.",
+      "items": [
+        {
+          "id": "truthsift",
+          "title": "TruthSift",
+          "client": "TruthSift",
+          "description": "Minimal wordmark identity for a media-intelligence platform — Sherlock Holmes detective silhouette in a circular emblem paired with a bold serif/sans split wordmark and the tagline 'How We Know'.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/truthsift.png",
+          "date": "2023",
+          "tags": ["Logo", "Tech", "Identity"]
+        },
+        {
+          "id": "urjita",
+          "title": "URJITA",
+          "client": "URJITA Energy",
+          "description": "Bold typographic logo for an energy brand — a custom U letterform integrated with a lightning bolt creates a powerful, recognizable mark in high-contrast black and amber.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/urjita.png",
+          "date": "2023",
+          "tags": ["Logo", "Energy", "Wordmark"]
+        },
+        {
+          "id": "sai-advisory",
+          "title": "Sai Advisory Services",
+          "client": "Sai Advisory Services",
+          "description": "Circular emblem identity for a financial advisory firm — monogram SAS with a precision compass/arrow motif on a deep blue gradient, communicating expertise and strategic direction.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/sai-advisory.png",
+          "date": "2022",
+          "tags": ["Logo", "Finance", "Emblem"]
+        },
+        {
+          "id": "just-learn",
+          "title": "JustLearn@CB",
+          "client": "Clearly Blue",
+          "description": "Vibrant, playful logotype for a children's education brand — each letter rendered in a distinct bright colour with a rounded, friendly typeface that communicates fun, creativity, and accessible learning.",
+          "imageUrl": "/Mahalakshmi-Portfolio/logos/just-learn.png",
+          "date": "2021",
+          "tags": ["Logo", "EdTech", "Playful"]
+        }
+      ]
     }
   ],
   "resume": {
