@@ -53,11 +53,12 @@ export const HomePage: React.FC<HomePageProps> = ({ data }) => {
               
               {/* The Arch Container - Responsive and Contained */}
               <div className="relative z-10 w-full aspect-[4/5] overflow-hidden rounded-t-full bg-gray-100 border-[8px] md:border-[16px] border-white shadow-[0_40px_100px_-20px_rgba(0,0,0,0.15)] grayscale hover:grayscale-0 transition-all duration-1000 ease-in-out">
-                <img 
+                <img
                   loading="lazy"
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=1200" 
+                  src="/Mahalakshmi-Portfolio/author.jpg"
                   alt="Mahalakshmi K - Senior Visual Strategist"
-                  className="w-full h-full object-cover scale-105 group-hover:scale-100 transition-transform duration-1000"
+                  className="w-full h-full object-cover object-top scale-105 group-hover:scale-100 transition-transform duration-1000"
+                  style={{ filter: 'brightness(1.18) contrast(1.1) saturate(1.25)' }}
                 />
               </div>
 
