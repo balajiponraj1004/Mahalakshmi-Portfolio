@@ -29,7 +29,7 @@ const FEATURED = [
   {
     title: 'Manam Canteen',
     subtitle: 'Brand Identity · Visual System',
-    image: '/Mahalakshmi-Portfolio/manam-canteen/moodboard-2.png',
+    image: '/Mahalakshmi-Portfolio/manam-canteen/mc-google-cover.png',
     link: '/case-study/manam-canteen',
     isInternal: true,
     tag: 'Case Study',
